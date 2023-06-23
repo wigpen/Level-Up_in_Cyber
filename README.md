@@ -8,6 +8,7 @@ Most of the content is created/curated/done-by TryHackMe, I use them because the
 
 ## RESOURCES
 https://osintframework.com/ - Open-Source Intelligence Framework
+https://inteltechniques.com/tools/Domain.html
 
 ## TRAINING
 https://tryhackme.com/signup?referrer=642d7ce7e0f6ef00494ab4d8 - referal link, will get you a fiver off if you choose to subscribe
