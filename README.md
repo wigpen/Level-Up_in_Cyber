@@ -7,8 +7,8 @@ The order presented here is not the order things have to be done it ... it is a 
 Most of the content is created/curated/done-by TryHackMe, I use them because they have a balance between defence and offence and cater for both types of teams and not just hackers/red teamers/pen testers ... us blue's need love too.
 
 ## RESOURCES
-https://osintframework.com/ - Open-Source Intelligence Framework
-https://inteltechniques.com/tools/Domain.html
+- https://osintframework.com/ - Open-Source Intelligence Framework
+- https://inteltechniques.com/tools/Domain.html
 
 ## TRAINING
 https://tryhackme.com/signup?referrer=642d7ce7e0f6ef00494ab4d8 - referal link, will get you a fiver off if you choose to subscribe
