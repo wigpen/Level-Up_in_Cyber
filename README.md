@@ -62,3 +62,10 @@ From the Beginning (cover any gaps, solid foundations)
 | How Spies Think: Ten Lessons in Intelligence | David Omand | From the former director of GCHQ, learn the methodology used by the British intelligence agencies to reach judgements, establish the right level of confidence and act decisively. Intelligence officers discern the truth. They gather information - often contradictory or incomplete - and, with it, they build the most accurate possible image of the world. With the stakes at their absolute highest, they must then decide what to do.  	|
 | We Are Bellingcat: An Intelligence Agency for the People | Eliot Higgins | Bellingcat, the home-grown investigative unit, is redefining the way we think about news, politics and the digital future. Here, their founder - a high-school dropout on a kitchen laptop - tells the story of how they created a whole new category of information-gathering, galvanising citizen journalists across the globe to expose war crimes and pick apart disinformation, using just their computers.	|
 | Fancy Bears Go Phishing |   |   |
+
+
+## Analyst Required Reading
+
+Stuff to mull over, mostly historical ... and of cyber historical significance ... especially APT stuff
+
+(no content yet, it is coming though)
