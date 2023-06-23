@@ -4,6 +4,8 @@ I tend to lean more towards defence than the offence of Red Teaming and Pen test
 
 The order presented here is not the order things have to be done it ... it is a suggestion and sometimes suggestions are wrong ... personally I jump between modules, paths, specific rooms depending on what is going on in my world and what topic comes up that I don't know about.
 
+Most of the content is created/curated/done-by TryHackMe, I use them because they have a balance between defence and offence and cater for both types of teams and not just hackers/red teamers/pen testers ... us blue's need love too.
+
 ## RESOURCES
 https://osintframework.com/ - Open-Source Intelligence Framework
 
