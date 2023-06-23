@@ -31,6 +31,7 @@ From the Beginning (cover any gaps, solid foundations)
 -	The Red, The Blue, and The Cyber Career - https://tryhackme.com/module/introduction-to-cyber-security
 -	Detection Engineering - https://tryhackme.com/module/detection-engineering
 -	Endpoint Security Monitoring - https://tryhackme.com/module/endpoint-security-monitoring
+-	Phishing - https://tryhackme.com/module/phishing
 
 ## MORE SPECIALIST MODULES - MIND EXPANSION AND BECOMING AN AGILE CYBER!
 -	Cyber Threat Intelligence - https://tryhackme.com/module/cyber-threat-intelligence
