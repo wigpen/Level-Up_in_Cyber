@@ -11,7 +11,8 @@ Most of the content is created/curated/done-by TryHackMe, I use them because the
 - https://inteltechniques.com/tools/Domain.html
 
 ## TRAINING
-https://tryhackme.com/signup?referrer=642d7ce7e0f6ef00494ab4d8 - referal link, will get you a fiver off if you choose to subscribe
+- https://tryhackme.com/signup?referrer=642d7ce7e0f6ef00494ab4d8 - referal link, will get you a fiver off if you choose to subscribe
+- Arc-X they have a free offering periodically, sometime for a limited time, https://arcx.io/courses
 
 ## LEARNING PATH
 NOTE - There is overlap, but that is a good thing 
@@ -71,7 +72,22 @@ Stuff to mull over, mostly historical ... and of cyber historical significance .
 
 (no content yet, it is coming though)
 
+## Enhance Your Understanding
+- Mitre ATT&CK, https://attack.mitre.org/matrices/enterprise/
+- Mitre CAR, https://car.mitre.org/analytics/
+- Mitre Engage, https://engage.mitre.org/starter-kit/
+
+## Awkward Questions to Ask at an Interview
+- When was your last maturity assessment, both internally conducted, and independantly assessed?
+- Lumberjacks, log cutting ... will ellaborate later
+- What intelligence do you generate internally?
+- With what telemetry do you generate your intelligence?
+- What teams assist in generating intelligence e.g. Hunt with their analysis and hunt investigations in to things such as but not limited to malware
+- Minimum and maximum data retention periods for things like intelligence reports, telementry, metadata (ipfix/netflow) ... 
+
 ## Un-vetted Training (Random Links from Friends)
+- Cybary 4 hours free, https://www.cybrary.it/course/intro-cyber-threat-intelligence
+- Mandiant, https://www.mandiant.com/mandiant-gives-back/free-cyber-defense-training
 - Purple Academy from Picus, https://academy.picussecurity.com/courses
 - ???, https://clark.center/browse?collection=nccp&currPage=1
 
