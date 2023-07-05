@@ -12,7 +12,8 @@ Most of the content is created/curated/done-by TryHackMe, I use them because the
 
 ## TRAINING
 - https://tryhackme.com/signup?referrer=642d7ce7e0f6ef00494ab4d8 - referal link, will get you a fiver off if you choose to subscribe
-- Arc-X they have a free offering periodically, sometime for a limited time, https://arcx.io/courses
+- Arc-X they have a free offering periodically, some time for a limited time, https://arcx.io/courses
+- Malware Analysis, https://malwareunicorn.org/workshops/re101.html#0
 
 ## LEARNING PATH
 NOTE - There is overlap, but that is a good thing 
