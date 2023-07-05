@@ -70,3 +70,8 @@ From the Beginning (cover any gaps, solid foundations)
 Stuff to mull over, mostly historical ... and of cyber historical significance ... especially APT stuff
 
 (no content yet, it is coming though)
+
+## Un-vetted Training (Random Links from Friends)
+- Purple Academy from Picus, https://academy.picussecurity.com/courses
+- ???, https://clark.center/browse?collection=nccp&currPage=1
+
