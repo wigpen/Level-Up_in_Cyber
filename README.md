@@ -77,6 +77,15 @@ Stuff to mull over, mostly historical ... and of cyber historical significance .
 - Mitre ATT&CK, https://attack.mitre.org/matrices/enterprise/
 - Mitre CAR, https://car.mitre.org/analytics/
 - Mitre Engage, https://engage.mitre.org/starter-kit/
+- 
+## Useful Links
+- https://www.tripwire.com/state-of-security/opsec-everyone-not-just-people-something-hide
+  -- This is a three parter full of good things for OSINT
+
+## Tools to Consider - Spendy Version
+- Authentic8 seucrity and anonymity for OSINT practitioners
+- SOSIntel is a wonderful intel source invested in by NCSC
+- 
 
 ## Awkward Questions to Ask at an Interview
 - When was your last maturity assessment, both internally conducted, and independantly assessed?
