@@ -1,6 +1,8 @@
-*Reasons behind this page*
+# Reasons behind this page #
 
-WARNING - I am not advocating everything in these videos, but from every single one I got something ... it could be one thing to do, but also something NOT to do, or something I feel is stupid, unnecessary, just pointless ... you get the picture.
+**WARNING** - I am not advocating or endorsing anything nor everything in these videos, but from every single one, I got something ... it could be one thing to do, but also something NOT to do, or something I feel is stupid, unnecessary, just pointless ... you get the picture.
+
+**At this initial draft - dated Sunday, the 23rd of June 2024** the content is in no particular order ... other than how it appears in my Tubes History do dah, Watch Later, Likes, blah, blah, you know the drill.
 
 Before we dive in, I recommend listening to this in the background. It is probably not for you if you are not a Ghost or Rock fan. However, it does get my threat-hunting juices flowing https://youtu.be/CIUhwGY3HgA?si=ebthM-MZRBk8FgPd
 
@@ -10,7 +12,7 @@ No way would it stop me.  I don't tend to let silly things like that stop me fro
 
 I got the job ... but before I even got the offer, I jumped headlong into KQL!  Wow, what a fascinating language, how well structured and thought out, what complexity, what variety.  It spoke to me the same way Splunk speaks to me.  I was in in love.
 
-This was the page that turned it on for me https://www.youtube.com/@TeachJing
+This was the page that turned it on for me (https://www.youtube.com/@TeachJing)
 
 These are all YouTube videos that I have turned to at one point or another, and they are all part of my knowledge tapestry.
 
@@ -18,17 +20,16 @@ This is not my complete knowledge tapestry but a key part.  A key part not just 
 
 The thing is, when you do not know how to do something, sometimes the worst thing to turn around and say is, "I can't do that because I need a 9k SANS course", or words to that effect.  Yes, there are dangerous times when you have to admit you do not know, but you are not a doctor, nurse, or a lifesaver (plus any other roles where people might die if you do not do your trained job to the highest level) ... you are a SOC Analyst, a Threat Hunter, a Forensics Technician.  You are me, and I am you.
 
-Mind you. I *was* that person at one point; it was a big ole SANS course and associated GIAC cert or nothing ... specific Vendor training for a specific product or nothing ... and you know what, they were good, they were worth it back then (circa the mid-2000s).  When it came to my buck, I spent some of it on SANS to keep up my certifications. I did try other vendor-neutral certification providers ... I spent a good wedge of moniez on courses that did bring me some knowledge, but not the value of the cash-moniez that were used.
+Mind you. I **was** that person at one point; it was a big ole SANS course and associated GIAC cert or nothing ... specific Vendor training for a specific product or nothing ... and you know what, they were good, they were worth it back then (circa the mid-2000s).  When it came to my buck, I spent some of it on SANS to keep up my certifications. I did try other vendor-neutral certification providers ... I spent a good wedge of moniez on courses that did bring me some knowledge, but not the value of the cash-moniez that were used.
 
-I am not completely advocating "Fake it until you make it". However, I have seen many successful careers come from a bunch of over-excited, cocky little-S**t's who have no what they are doing and overcome some serious challenges.  Some of which made me step back and respect them.
-
-At this initial draft - dated Sunday, the 23rd of June 2024 the content is in no particular order ... other than how it appears in my Tubes History do dah, Watch Later, Likes, blah, blah, you know the drill.
+I am not completely advocating "Fake it until you make it". However, I have seen many successful careers come from a bunch of over-excited, cocky * *little-S**t's* * who have no what they are doing and overcome some serious challenges.  Some of which made me step back and respect them.
 
 Yes, there is a lot of SANS in there. I really do respect their training ... but not their prices ... and sometimes not their certifications. In the past few years, I have seen people with multiple GIACs on the SANS and/or GIAC board, SANS mentors ... they just did NOT know what they were doing, but they were very good at SANS and GIAC certifications.
 
 Equally, I know a person who learned to drive a forklift truck from YouTube and was certified by passing all relevant exams and tests within seven days.  Fully legally licenced in the UK, they started their new job as if they had ten years of experience.  
 
 | YouTube Link | Notes and or comments |
+| --------- | --------------|
 | https://www.youtube.com/@TeachJing | Where I started with KQL|
 | https://youtu.be/BBTlKrYU0HQ?si=w28tA9nayMOez_9x |  |
 https://youtu.be/PKHH_gvJ_hA?si=Qw1yD2JuXJGbOg3Z
