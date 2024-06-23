@@ -94,6 +94,7 @@ https://www.youtube.com/live/wXlB0CILWic?si=KdgipX-KUPi8TmiM
 https://youtu.be/n-oIYuoDXcU?si=3UL9mklNxS9ISsOk | Stu Peck OSINT
 https://youtu.be/iISJExR4ZKQ?si=l7CjnaKLaFCpQoDr | Threat Hunting 101 playlist
 https://www.youtube.com/playlist?list=PLfouvuAjspTpvL3nQFAxSq3oQCeCWfn5P | Playlist from SANS Cyber Threat Intelligence Summit 2023
+https://youtu.be/dSwOqKNmMdw?si=4G1lUeQ2a3h8IcCD | Rinsed by Geoff White
 
 
 
